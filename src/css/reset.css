@@ -9,11 +9,6 @@
     box-sizing: border-box;
 }
 
-.cabecalho {
-    display: flex;
-    justify-content: center;
-}
-
 ul {
     list-style: none;
     }
