@@ -8,6 +8,10 @@ body {
 
 .cabecalho {
     display: flex;
-    
+    justify-content: center;
     background-color: #00ffff;
+}
+
+.selecao-de-personagens {
+    
 }
