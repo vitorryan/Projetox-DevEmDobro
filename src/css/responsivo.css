@@ -33,7 +33,7 @@
     .personagem-selecionado .descricao-personagem {
         width: 80%;
         font-size: 16px;
-        margin: 20px auto;
+        margin: 0px auto;
     }
 
 }
