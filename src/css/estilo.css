@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Oxanium', cursive;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.cabecalho {
+    display: flex;
+    
+    background-color: #00ffff;
+}
